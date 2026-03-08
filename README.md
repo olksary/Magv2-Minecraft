@@ -1,2 +1,2 @@
 # Magv2-Minecraft
-yes
+you need java 8
